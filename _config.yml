@@ -18,9 +18,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: biblio # the main title
+title: garrulus # the main title
 
-tagline: biblio-techno and stuff! # it will display as the sub-title
+tagline: an aide-mémoire of biblio-techno and stuff! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/images/biblios_logo_v2.png"
+avatar: "assets/images/garrulus.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
