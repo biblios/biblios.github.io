@@ -14,7 +14,11 @@ Spending time trying to absorb how to configure jekyll in order to understand th
   - [hyperionmedia.us](https://hyperionmedia.us/posts/jekyll-chirpy-image-gallery/)
 
 - Favicon
-  - [hoangnh.com](https://hoangnh.com/posts/customize-the-favicon/)
+  - [chirpy](https://chirpy.cotes.page/posts/customize-the-favicon/)
   - [Favicon Generator](https://www.favicon-generator.org/)
+  
+  
   nb: not too clear which directory to change?
+
+  update: Eventually realised that multiple folders from the gem jekyll theme folder were required to be copied into the root folder of the repository.
   
