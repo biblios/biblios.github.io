@@ -16,5 +16,5 @@ Spending time trying to absorb how to configure jekyll in order to understand th
 - Favicon
   - [hoangnh.com](https://hoangnh.com/posts/customize-the-favicon/)
   - [Favicon Generator](https://www.favicon-generator.org/)
-  nb: not too clear which directory to change?????
+  nb: not too clear which directory to change?
   
