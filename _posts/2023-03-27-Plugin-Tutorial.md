@@ -4,7 +4,8 @@ date: 2023-03-27 21:07:00 0
 categories: [jekyll]
 tags: [jekyll, plugin, post ]
 ---
-
+ <base target="_blank">
+ 
 ## Multiple Drafts Plugin
 
 I was pondering on how to best create posts. I have quite a reluctance to write and have always failed at keeping diary entries. As yet I'm not sure how this project will develop - I guess it'll be mostly prompts for recalling how I did a homelab something. It'll be good practice to try writing clear documentation (something I could do with doing in a work context re:bookbinding)
