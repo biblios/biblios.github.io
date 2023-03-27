@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Plugin Tutorial"
-date: unpublished
+date: 2023-03-27 21:07:00 0
+categories: [jekyll]
+tags: [jekyll, plugin, post ]
 ---
 
 ## Multiple Drafts Plugin
@@ -12,3 +14,4 @@ On writing a post its useful for me to have a staging point ie. _drafts. Where t
 
 So here goes an exercise in a post written to draft then published by plugin.
 
+Update: plugin failed to work for me - can't see why. In principle a good idea...
