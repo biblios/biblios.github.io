@@ -120,7 +120,7 @@ paginate: 10
 
 plugins:
   - jekyll-redirect-from
-
+  - publisher
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
