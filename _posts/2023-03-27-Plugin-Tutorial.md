@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Plugin Tutorial"
 date: 2023-03-27 21:07:00 0
 categories: [jekyll]
