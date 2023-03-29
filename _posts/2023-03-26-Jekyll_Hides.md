@@ -5,7 +5,7 @@ categories: [homelab]
 tags: [website, jekyll]
 ---
 
-Spending time trying to absorb how to configure jekyll in order to understand the chirpy template. Reading through docs and looking at how other sites have employed this template.
+Spending time trying to absorb how to configure jekyll in order to understand the chirpy template. Reading through docs and looking at how other sites have employed this template. Here be some places of interest:
 
 - Image Gallery
 
