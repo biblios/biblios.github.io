@@ -15,7 +15,7 @@ Spending time trying to absorb how to configure jekyll in order to understand th
 
   also check out
 
-  - [jekyll codex](https:jekyllcodex.org/without-plugin/image-gallery/)
+  - [jekyll codex](https://jekyllcodex.org/without-plugin/image-gallery/)
 
 
 Header images (placed in front matter) should be resized to 1200 x 630 px.
